@@ -1,0 +1,13 @@
+.classpath
+.project
+.idea
+bin
+build
+nbproject
+nbactions.xml
+build.xml
+manifest.mf
+target
+*.class
+*.jar
+*.iml
