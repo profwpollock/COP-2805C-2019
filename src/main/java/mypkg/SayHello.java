@@ -17,6 +17,10 @@ public class SayHello
 
         System.out.println( "Howdy!  My name is Wayne Pollock." );
         counter++;
+        
+        System.out.println( "Hello, Hallo, Hullo. This is Kritsia." );
+        counter++;
+
 
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
