@@ -25,6 +25,9 @@ public class SayHello
         System.out.println( "A man counted 97 chicken in his chicken coop, but when he rounded them up, he had 100." );
         counter++;
 
+        System.out.println( "Alex's hint for the test: Pollock's apparent favorite color is Blue." );
+        counter++;
+
 
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
