@@ -21,6 +21,10 @@ public class SayHello
         System.out.println( "Hello, Hallo, Hullo. This is Kritsia." );
         counter++;
 
+        System.out.println( "Hello all, My name is Joshua Ventura!" );
+        System.out.println( "A man counted 97 chicken in his chicken coop, but when he rounded them up, he had 100." );
+        counter++;
+
 
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
