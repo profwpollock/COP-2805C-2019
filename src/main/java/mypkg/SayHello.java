@@ -27,6 +27,9 @@ public class SayHello
 
         System.out.println( "Alex's hint for the test: Pollock's apparent favorite color is Blue." );
         counter++;
+        
+        System.out.println( "Uh, did I do this correctly? - Michael Tarallo" );
+        counter++;
 
 
         // (1) Add your own output below these comments that includes your name.
