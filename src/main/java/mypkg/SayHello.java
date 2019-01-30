@@ -30,6 +30,10 @@ public class SayHello
         
         System.out.println( "Uh, did I do this correctly? - Michael Tarallo" );
         counter++;
+        
+        System.out.println("Vegeta! What does the scouter say about his power"
+                + " level? IT'S OVER 9000! DragonBall is dope af - Cody.");
+        counter++;
 
 
         // (1) Add your own output below these comments that includes your name.
