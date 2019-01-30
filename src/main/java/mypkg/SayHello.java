@@ -39,6 +39,9 @@ public class SayHello
         System.out.println( "Wow! I am late! Kyle Edward Young my name" );
         counter++;
 
+        System.out.println("Hello everyone, My name is David Alvarez");
+        counter++;
+        
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
