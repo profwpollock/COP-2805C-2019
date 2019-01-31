@@ -39,6 +39,11 @@ public class SayHello
         System.out.println( "Wow! I am late! Kyle Edward Young my name" );
         counter++;
 
+        System.out.println("Why do Java programmers have to wear glasses?" +
+                " Because they don’t C#. - Chloe Zelaya");
+        counter++;
+
+
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
