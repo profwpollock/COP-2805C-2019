@@ -39,6 +39,10 @@ public class SayHello
         System.out.println( "Wow! I am late! Kyle Edward Young my name" );
         counter++;
 
+        System.out.println("Hello everyone, My name is David Alvarez");
+        counter++;
+
+
         System.out.println("Why do Java programmers have to wear glasses?" +
                 " Because they don’t C#. - Chloe Zelaya");
         counter++;
