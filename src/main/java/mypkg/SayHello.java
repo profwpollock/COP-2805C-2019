@@ -49,6 +49,10 @@ public class SayHello
 
         System.out.println("Hey ya'll, my name is Myrlene Suarez");
         counter++;
+        
+        System.out.println( "Hello, Rungrut is here" );
+        System.out.println( "Alcohol is a perfect solvent: It dissolves marriages, families and careers." );
+        counter++;
 
 
         // (1) Add your own output below these comments that includes your name.
