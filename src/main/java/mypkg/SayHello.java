@@ -29,6 +29,7 @@ public class SayHello
         counter++;
         
         System.out.println( "Uh, did I do this correctly? - Michael Tarallo" );
+        System.out.println(" Also, did you know taller people sleep longer in bed?");
         counter++;
         
         System.out.println("Vegeta! What does the scouter say about his power"
