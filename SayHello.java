@@ -50,7 +50,7 @@ public class SayHello
         System.out.println("Hey ya'll, my name is Myrlene Suarez");
         counter++;
         
-        System.out.println("Hello classmates! Cindy has made it to the party!");
+        System.out.println("Hello classmates! Cindy has arrived to the party!");
         counter++;
 
 
