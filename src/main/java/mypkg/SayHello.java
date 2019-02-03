@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Git collaborative COP-2805C (Java II) project.
 // $Id$
 
@@ -6,7 +6,7 @@ package mypkg;
 
 /** Class used for COP-2805C git and GitHub project.
 */
-public class sayHello
+public class SayHello
 {
     /** Displays greetings for all students.
       * When done, displays a count of students who edited this file.
@@ -14,6 +14,10 @@ public class sayHello
       */
     public static void main ( String [] args )
     {
+        // (1) Add your own output below these comments that includes your name.
+        // (2) Place "counter++;" command after your contribution, to keep count.
+        // (3) Keep the existing println statement at the very end.
+        
         int counter = 0;
 
         System.out.println( "Howdy!  My name is Wayne Pollock." );
@@ -39,56 +43,20 @@ public class sayHello
 
         System.out.println( "Wow! I am late! Kyle Edward Young my name" );
         counter++;
-
-<<<<<<< HEAD
-        
+   
         System.out.println( "I'm Jeff Taylor" );
         System.out.println( "Why diid the programmer quit his job?" );
         System.out.println( "Because he didn't get arrays." );
         counter++;
         
-=======
         System.out.println("Hello everyone, My name is David Alvarez");
         counter++;
-
-
-
-
-
-
-
-
 
         System.out.println("ello this is Jacob Babb aperture science would"
                 +"like to remind that cake and grief counsuling will be at the served at the end of the test");
         counter++;
->>>>>>> branch 'master' of https://github.com/profwpollock/COP-2805C-2019.git
-        // (1) Add your own output below these comments that includes your name.
-        // (2) Place "counter++;" command after your contribution, to keep count.
-        // (3) Keep the existing println statement at the very end.
-
-        System.out.println( "Number of students who edited this file: "
-            + counter );
-    }
-}
-=======
-// Git collaborative COP-2805C (Java II) project.
-// $Id$
-
-package mypkg;
-
-/** Class used for COP-2805C git and GitHub project.
-*/
-public class SayHello
-{
-    /** Displays greetings for all students.
-      * When done, displays a count of students who edited this file.
-      * @param args - Unused
-      */
-    public static void main ( String [] args )
-    {
-        int counter = 0;
-
+//>>>>>>> branch 'master' of https://github.com/profwpollock/COP-2805C-2019.git
+    
         System.out.println( "Howdy!  My name is Wayne Pollock." );
         counter++;
         
@@ -132,20 +100,17 @@ public class SayHello
         System.out.println( "Why did the programmer quit his job?" );
         System.out.println( "Because he didn't get arrays" );
         counter++;
-
-
-
-        // (1) Add your own output below these comments that includes your name.
-        // (2) Place "counter++;" command after your contribution, to keep count.
-        // (3) Keep the existing println statement at the very end.
         
         System.out.println("Hello! My name is Agnes B.");
 
         System.out.println("hello my name is jacob Babb, jimmy johns has best bread");
         counter++;
         
+        System.out.println("I made some big changes, and I hope it lets this work again.  Sam Graham");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
 }
->>>>>>> origin/master
+
