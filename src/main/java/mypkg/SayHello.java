@@ -106,7 +106,7 @@ public class SayHello
         System.out.println("hello my name is jacob Babb, jimmy johns has best bread");
         counter++;
         
-        System.out.println("I made some big changes, and I hope it lets this work again.  Sam Graham");
+        System.out.println("I made some big changes, and I hope it lets this work again. Sam Graham");
         counter++;
         
         System.out.println( "Number of students who edited this file: "
