@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mypkg/SayHello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="32">
+              <caret line="123" column="80" lean-forward="true" selection-start-line="123" selection-start-column="80" selection-end-line="123" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -95,18 +95,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mypkg" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="COP-2805C-2019.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COP-2805C-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mypkg" type="462c0819:PsiDirectoryNode" />
+              <item name="SayHello.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548114380776" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549163782305" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -168,6 +177,7 @@
       <workItem from="1548896242954" duration="1929000" />
       <workItem from="1548899155416" duration="90000" />
       <workItem from="1548963939469" duration="699000" />
+      <workItem from="1549163086143" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="this is my commit message for writing my line of code">
       <created>1548964229715</created>
@@ -176,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548964229715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this is my commit message for writing my line of code&#10;I wrote code that displays my name and adds to the counter">
+      <created>1549163604902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549163604902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -185,13 +202,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3578000" />
+    <option name="totallyTimeSpent" value="4265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28015873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,7 +217,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32955974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -211,7 +228,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -228,7 +245,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is my commit message for writing my line of code" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is my commit message for writing my line of code" />
+    <MESSAGE value="this is my commit message for writing my line of code&#10;I wrote code that displays my name and adds to the counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my commit message for writing my line of code&#10;I wrote code that displays my name and adds to the counter" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.project">
@@ -258,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mypkg/SayHello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="-610">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
