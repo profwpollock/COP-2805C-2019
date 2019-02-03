@@ -29,6 +29,7 @@ public class SayHello
         counter++;
         
         System.out.println( "Uh, did I do this correctly? - Michael Tarallo" );
+        System.out.println(" Also, did you know taller people sleep longer in bed?");
         counter++;
         
         System.out.println("Vegeta! What does the scouter say about his power"
@@ -42,21 +43,24 @@ public class SayHello
         System.out.println("Hello everyone, My name is David Alvarez");
         counter++;
 
-
-
-
-
-
-
-
-
-        System.out.println("ello this is Jacob Babb aperture science would"
-                +"like to remind that cake and grief counsuling will be at the served at the end of the test");
+        System.out.println("Why do Java programmers have to wear glasses?" +
+                " Because they don’t C#. - Chloe Zelaya");
         counter++;
+
+        System.out.println("Hey ya'll, my name is Myrlene Suarez");
+        counter++;
+        
+        System.out.println( "Hello, Rungrut is here" );
+        System.out.println( "Alcohol is a perfect solvent: It dissolves marriages, families and careers." );
+        counter++;
+
+
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
-
+        
+        System.out.println("Hello! My name is Agnes B.");
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
