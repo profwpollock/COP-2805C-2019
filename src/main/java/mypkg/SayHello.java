@@ -121,6 +121,11 @@ public class SayHello
 
         System.out.println("Hello, my name is Peter Quach!");
         counter++;
+        
+        System.out.println( "I'm Robert Thompson" );
+        System.out.println( "We West Virginians invented the toothbrush;" );
+        System.out.println( "Otherwise, it'd be called the teethbrush." );
+        counter++;
 
         System.out.println( "Number of students who edited this file: "
             + counter );
