@@ -2,7 +2,7 @@
 // Git collaborative COP-2805C (Java II) project.
 // $Id$
 
-package mypkg;
+package src.main.java.mypkg;
 
 /** Class used for COP-2805C git and GitHub project.
 */
@@ -114,6 +114,9 @@ public class SayHello
         counter++;
 
         System.out.println("Hello, my name is Jason Sheets");
+        counter++;
+
+        System.out.println("Hello, my name is Peter Quach!");
         counter++;
 
         System.out.println( "Number of students who edited this file: "
