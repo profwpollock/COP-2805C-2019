@@ -112,7 +112,10 @@ public class SayHello
         System.out.println("Hello, I'm Raul Vazquez");
         System.out.println("WINDOWS stands for Will Install Needless Data On Whole System.");
         counter++;
-        
+
+        System.out.println("Hello, my name is Jason Sheets");
+        counter++;
+
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
