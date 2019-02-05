@@ -45,7 +45,7 @@ public class SayHello
         counter++;
    
         System.out.println( "I'm Jeff Taylor" );
-        System.out.println( "Why did the programmer quit his job?" );
+        System.out.println( "Why diid the programmer quit his job?" );
         System.out.println( "Because he didn't get arrays." );
         counter++;
         
@@ -53,7 +53,7 @@ public class SayHello
         counter++;
 
         System.out.println("ello this is Jacob Babb aperture science would"
-                +"like to remind that cake and grief counseling will be at the served at the end of the test");
+                +"like to remind that cake and grief counsuling will be at the served at the end of the test");
         counter++;
 //>>>>>>> branch 'master' of https://github.com/profwpollock/COP-2805C-2019.git
     
@@ -77,6 +77,7 @@ public class SayHello
         System.out.println("Vegeta! What does the scouter say about his power"
                 + " level? IT'S OVER 9000! DragonBall is dope af - Cody.");
         counter++;
+
 
         System.out.println( "Wow! I am late! Kyle Edward Young my name" );
         counter++;
@@ -136,10 +137,6 @@ public class SayHello
         counter++;
         
         System.out.println("Hello everyone, my name is Jason Sysak.");
-        counter++;
-
-        System.out.println( "Mary Sotomayor will definitely require cake and grief counseling. " );
-        System.out.println( "Cheers to all!" );
         counter++;
         
         System.out.println( "Number of students who edited this file: "
