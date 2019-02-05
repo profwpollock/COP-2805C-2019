@@ -56,6 +56,12 @@ public class SayHello
         System.out.println( "Hello all!, William Faircloth here." );
         counter++;
 
+        System.out.println( "How do you do, this is Jack Zabriskie.")
+        System.out.println( "and I was here")
+        counter++;
+
+
+
         // (1) Add your own output below these comments that includes your name.
         // (2) Place "counter++;" command after your contribution, to keep count.
         // (3) Keep the existing println statement at the very end.
