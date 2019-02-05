@@ -1,4 +1,3 @@
-
 // Git collaborative COP-2805C (Java II) project.
 // $Id$
 
@@ -54,7 +53,6 @@ public class SayHello
         System.out.println("ello this is Jacob Babb aperture science would"
                 +"like to remind that cake and grief counseling will be at the served at the end of the test");
         counter++;
-//>>>>>>> branch 'master' of https://github.com/profwpollock/COP-2805C-2019.git
     
         System.out.println( "Howdy!  My name is Wayne Pollock." );
         counter++;
@@ -147,4 +145,3 @@ public class SayHello
         counter++;
     }
 }
-
