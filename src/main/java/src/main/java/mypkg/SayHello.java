@@ -127,7 +127,7 @@ public class SayHello
         System.out.println( "Otherwise, it'd be called the teethbrush." );
         counter++;
 
-        System.out.println( "Christopher Stambaugh was here." );
+        System.out.println("Christopher Stambaugh was here.");
         counter++;
 
         System.out.println("Hey, my name is Reubin George");
