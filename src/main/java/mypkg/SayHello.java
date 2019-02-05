@@ -146,6 +146,6 @@ public class SayHello
         
         System.out.println("Hi, everyone this is Brandon Henriksen");
         System.out.println("Man walks into a bar, then turns to his friend and says, That really hurt!");
-//        counter++;
+        counter++;
     }
 }
