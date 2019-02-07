@@ -119,6 +119,7 @@ public class SayHello
         counter++;
         
         System.out.println("Hello there, this is Jon. This is attempt number 4.");
+        counter++;
         
         System.out.println( "Number of students who edited this file: "
             + counter );
