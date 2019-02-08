@@ -121,14 +121,13 @@ public class SayHello
         System.out.println("Hello there, this is Jon. This is attempt number 4.");
         counter++;
 
-        System.out.println( "Number of students who edited this file: "
-            + counter );
-
         System.out.println("Buenas Tardes, mi nombre es Andres Cardenas. Hope it works this time!");
         counter++;
 
         System.out.println("Hello, this is Helene Hoffman. Is this thing on?");
         counter++;
 
+        System.out.println( "Number of students who edited this file: "
+            + counter );
     }
 }
