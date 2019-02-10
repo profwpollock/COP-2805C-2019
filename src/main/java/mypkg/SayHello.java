@@ -127,6 +127,9 @@ public class SayHello
         System.out.println("Hello, this is Helene Hoffman. Is this thing on? Second attempt to make a good patch file.");
         counter++;
 
+        System.out.println("Hi, this is Julio Sarda from IntelliJ Idea.");
+        counter++;
+
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
