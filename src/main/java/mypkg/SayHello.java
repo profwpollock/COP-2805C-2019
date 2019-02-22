@@ -130,6 +130,10 @@ public class SayHello
         System.out.println("Hi, this is Julio Sarda from IntelliJ Idea.");
         counter++;
 
+        System.out.println("They say 'better late than never' but there has to be a point where " +
+                "you hit diminishing returns... - Dexter Sicarius");
+        counter++;
+
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
