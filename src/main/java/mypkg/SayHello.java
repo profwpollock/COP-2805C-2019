@@ -134,6 +134,9 @@ public class SayHello
                 "you hit diminishing returns... - Dexter Sicarius");
         counter++;
 
+        System.out.println("Hello, this is Jeremy Shuey. Late as usual...");
+        counter++;
+
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
